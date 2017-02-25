@@ -9,8 +9,9 @@ class ShelfConfiguration constructor(val size: String, val booksCapacity: Int){
 
 class Shelf constructor(val configuration: ShelfConfiguration){
 
-    var _booksCapacity = configuration.booksCapacity;
     var myBooks: MutableList<Book>? = null
+    var _booksCapacity = configuration.booksCapacity
+
 
 
     fun addBooks(vararg books: Book){
@@ -18,37 +19,33 @@ class Shelf constructor(val configuration: ShelfConfiguration){
         if (books.size > _booksCapacity)
             throw IndexOutOfBoundsException("Книжная полка переполнена")
 
-        myBooks?.addAll(books)
+        myBooks = books.toMutableList()
 
         _booksCapacity -= books.size
     }
 
     override fun toString(): String {
-        return configuration.toString() + "\nВместительность: ${configuration.booksCapacity}. \nКниг на полке: ${configuration.booksCapacity - _booksCapacity} \n${myBooks?.forEach { it.toString() }}"
+        return configuration.toString() + "\nВместительность: ${configuration.booksCapacity}. \nКниг на полке: ${configuration.booksCapacity - _booksCapacity} \n${myBooks?.forEach { println(it.toString()) }}"
     }
 }
 
 class Bookcase {
-    var myShelfs: MutableList<Shelf> = null!!
+    var myShelfs: MutableList<Shelf>
 
     init {
         /// Create shelfs
         val shelfs: List<Shelf> = listOf(Shelf(ShelfConfiguration("5x5", 5)), Shelf(ShelfConfiguration("2x2", 2)))
         /// Add shelfs in BookCase
-        shelfs.forEach { addShelfs(it) }
+        myShelfs = shelfs.toMutableList()
     }
 
-    private fun addShelfs(vararg shelfs: Shelf){
-
-        myShelfs.addAll(shelfs)
-    }
 
     fun addBooks(vararg books: Book){
 
         var index: Int = 0
         for (shelf in myShelfs)
         {
-            while (shelf._booksCapacity > 0) {
+            while (shelf._booksCapacity > 0 && index < books.size) {
                 shelf.addBooks(books[index])
                 ++index
             }
@@ -57,7 +54,7 @@ class Bookcase {
 
 
     override fun toString(): String {
-        return "Книжных полок: ${myShelfs.size} \n ${myShelfs.forEach { it.toString() }}"
+        return "Книжных полок: ${myShelfs.size} \n ${myShelfs.forEach { println(it.toString()) }}"
     }
 }
 
