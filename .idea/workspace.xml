@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="822fccbf-e415-42dc-b2aa-feb304f81bf1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinHW/META-INF/KotlinHW.kotlin_module" afterPath="$PROJECT_DIR$/out/production/KotlinHW/META-INF/KotlinHW.kotlin_module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinHW/practice/Bookcase.class" afterPath="$PROJECT_DIR$/out/production/KotlinHW/practice/Bookcase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinHW/practice/Shelf.class" afterPath="$PROJECT_DIR$/out/production/KotlinHW/practice/Shelf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinHW/practice/_2_2Kt.class" afterPath="$PROJECT_DIR$/out/production/KotlinHW/practice/_2_2Kt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinHW/practice/README.md" afterPath="$PROJECT_DIR$/out/production/KotlinHW/practice/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/practice/3.kt" afterPath="$PROJECT_DIR$/src/practice/3.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/practice/4.kt" afterPath="$PROJECT_DIR$/src/practice/4.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/practice/README.md" afterPath="$PROJECT_DIR$/src/practice/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,8 +51,8 @@
       <file leaf-file-name="4.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice/4.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-387">
-              <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="38" />
+            <state relative-caret-position="-1107">
+              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -70,8 +62,8 @@
         <entry file="file://$PROJECT_DIR$/src/practice/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="571">
-                <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+              <first_editor relative-caret-position="120">
+                <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -724,12 +716,12 @@
       <workItem from="1487715426746" duration="1097000" />
       <workItem from="1487749166700" duration="8557000" />
       <workItem from="1488030481871" duration="12105000" />
-      <workItem from="1488151371889" duration="798000" />
+      <workItem from="1488151371889" duration="1281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24005000" />
+    <option name="totallyTimeSpent" value="24488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -930,8 +922,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/4.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-387">
-          <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="38" />
+        <state relative-caret-position="-1107">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -939,8 +931,8 @@
     <entry file="file://$PROJECT_DIR$/src/practice/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="571">
-            <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <first_editor relative-caret-position="120">
+            <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
