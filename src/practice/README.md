@@ -70,7 +70,7 @@ private var matrix: Array<IntArray>
 ```
 И размер матрицы 
 ```kotlin
-_size
+private var _size: Int
 ```
 Все данные проверяются при считывании. </br>
 ***
