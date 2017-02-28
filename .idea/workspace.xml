@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="822fccbf-e415-42dc-b2aa-feb304f81bf1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/practice/4.kt" afterPath="$PROJECT_DIR$/src/practice/4.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/practice/README.md" afterPath="$PROJECT_DIR$/src/practice/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -74,7 +73,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="601">
-                <caret line="137" column="2" lean-forward="false" selection-start-line="137" selection-start-column="2" selection-end-line="137" selection-end-column="2" />
+                <caret line="137" column="1" lean-forward="false" selection-start-line="137" selection-start-column="1" selection-end-line="137" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -738,12 +737,12 @@
       <workItem from="1488030481871" duration="12105000" />
       <workItem from="1488151371889" duration="2023000" />
       <workItem from="1488195195890" duration="2439000" />
-      <workItem from="1488285933508" duration="5233000" />
+      <workItem from="1488285933508" duration="5295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32902000" />
+    <option name="totallyTimeSpent" value="32964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1031,7 +1030,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="601">
-            <caret line="137" column="2" lean-forward="false" selection-start-line="137" selection-start-column="2" selection-end-line="137" selection-end-column="2" />
+            <caret line="137" column="1" lean-forward="false" selection-start-line="137" selection-start-column="1" selection-end-line="137" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />
