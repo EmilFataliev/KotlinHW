@@ -40,7 +40,7 @@ class Matrix : IMatrix {
     }
 
     private fun readMatrix() {
-        println("Введите матрицу: ")
+        println("Ввод матрицы")
         for (i in 0.._size - 1)
             for (j in 0.._size - 1)
                 while (true)
@@ -134,6 +134,7 @@ class Matrix : IMatrix {
 
     override fun setMatrixDefault() {
         matrix = defaultMatrix
+        println("\nИзначальная матрица")
     }
 
     override fun toString(): String {
@@ -177,6 +178,7 @@ fun main(args: Array<String>) {
 
     // Set matrix in initial state and calculate determinant
     matrix.setMatrixDefault()
+    println(matrix.toString())
     print("Определитель матрицы = ")
     println(matrix.getDeterminant())
 

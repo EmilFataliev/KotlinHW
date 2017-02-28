@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="822fccbf-e415-42dc-b2aa-feb304f81bf1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinHW/META-INF/KotlinHW.kotlin_module" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinHW/practice/Matrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinHW/practice/_4Kt.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinHW/practice/README.md" afterPath="$PROJECT_DIR$/out/production/KotlinHW/practice/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/functional/3-1.kt" afterPath="$PROJECT_DIR$/src/functional/3-1.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/practice/3.kt" afterPath="$PROJECT_DIR$/src/practice/3.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/practice/4.kt" afterPath="$PROJECT_DIR$/src/practice/4.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/practice/README.md" afterPath="$PROJECT_DIR$/src/practice/README.md" />
     </list>
@@ -69,8 +62,8 @@
       <file leaf-file-name="4.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice/4.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1860">
-              <caret line="177" column="60" lean-forward="false" selection-start-line="177" selection-start-column="60" selection-end-line="177" selection-end-column="60" />
+            <state relative-caret-position="393">
+              <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -80,8 +73,8 @@
         <entry file="file://$PROJECT_DIR$/src/practice/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="80">
-                <caret line="115" column="28" lean-forward="false" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
+              <first_editor relative-caret-position="601">
+                <caret line="137" column="2" lean-forward="false" selection-start-line="137" selection-start-column="2" selection-end-line="137" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -745,12 +738,12 @@
       <workItem from="1488030481871" duration="12105000" />
       <workItem from="1488151371889" duration="2023000" />
       <workItem from="1488195195890" duration="2439000" />
-      <workItem from="1488285933508" duration="4969000" />
+      <workItem from="1488285933508" duration="5233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32638000" />
+    <option name="totallyTimeSpent" value="32902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -776,7 +769,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5287671" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5287671" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27382874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1028,8 +1021,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/4.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="177" column="60" lean-forward="false" selection-start-line="177" selection-start-column="60" selection-end-line="177" selection-end-column="60" />
+        <state relative-caret-position="393">
+          <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1037,8 +1030,8 @@
     <entry file="file://$PROJECT_DIR$/src/practice/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="80">
-            <caret line="115" column="28" lean-forward="false" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
+          <first_editor relative-caret-position="601">
+            <caret line="137" column="2" lean-forward="false" selection-start-line="137" selection-start-column="2" selection-end-line="137" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
